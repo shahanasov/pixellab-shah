@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+.backg{
+    background-image: image("https://images.squarespace-cdn.com/content/v1/5a1cc61e7131a549d168070b/1524375696885-AF5FLAX7MPVTIFGU7D29/PIXELLAB_POD+DC+Whiskey+Bar-8545PXLB8545.jpg?format=2500w");
+width: 100%;
+}
+.nav-link{
+    font-size: 1rem;
+}
+.essdiv{
+    padding: 50px;
+}
+.extra-margin{
+    margin-left: 80px;
+}
+.foot{
+    background-color: #b7b3a4;
+}
+.pix{
+    color: #b7b3a4;
+    font-family: 'Courier New', Courier, monospace;
+}
+.pixel{
+    color: #b7b3a4;
+}
+#navbarNavDropdown ul li a{
+    color: #b7b3a4;
+}
+.man{
+    padding-left: 50px;
+}
+.card{
+    border:none;
+}
+
